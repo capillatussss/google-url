@@ -64,7 +64,12 @@ class GoogleUrl{
     const LR_RU="lang_ru";
     const TLD_RU="ru";
     const ACCEPT_RU="ru;q=0.8";
-    
+    // Indonesia
+    const HL_ID="id";
+    const LR_ID="lang_id";
+    const TLD_ID="co.id";
+    const ACCEPT_ID="id;q=0.8";
+
     /** END CONSTANTS OF LANG **/
 
 
