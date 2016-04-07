@@ -1,14 +1,14 @@
 {
-    "name": "sneakybobito/google-url",
+    "name": "rifki192/google-url",
     "type": "library",
     "description": "Manipulate google searches and SERP",
     "keywords": ["google","SERP"],
-    "homepage": "https://github.com/SneakyBobito/google-url",
+    "homepage": "https://github.com/rifki192/google-url",
     "license": "BSD-3",
     "authors": [
         {
-            "name": "Soufiane Ghzal",
-            "email": "sghzal@gmail.com"
+            "name": "Rifki",
+            "email": "askrifki@gmail.com"
         }
     ],
     "require": {
